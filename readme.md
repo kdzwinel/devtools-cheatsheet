@@ -296,6 +296,8 @@ Feature                 | Description
   * [Dark Dev](http://goo.gl/BVIDe)
   * [WebLight Theme](http://goo.gl/E5NJh)
 
+DevTools themes are also available in the [Chrome Web Store](https://chrome.google.com/webstore/search-extensions/DevTools%20Theme) as extensions. Read about [creating one](https://github.com/paulirish/sample-devtools-theme-extension#make-your-own-theme).
+
 > Tweak your skin for the DevTools using the DevTools itself.
 > Undock it from the browser and type: Ctrl + Alt + I or ⌃ + Alt + I on Mac.
 
