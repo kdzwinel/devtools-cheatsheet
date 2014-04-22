@@ -85,8 +85,8 @@ Add new style selectors
 Understanding the information displayed within each column.
 
 ![Size column details](http://anti-code.com/devtools-cheatsheet/img/network-sizeCol.png "Size column details")
-  * **Size**: Total size of resource
-  * **Content**: Gzipped size of resource
+  * **Size**: Total size of resource (gzipped and with headers)
+  * **Content**: Size of the content (not-gzipped and without headers)
 
 ![Time column details](http://anti-code.com/devtools-cheatsheet/img/network-timeCol.png "Time column details")
   * **Time**: total duration to get response
